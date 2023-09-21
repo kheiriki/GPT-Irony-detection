@@ -1,5 +1,5 @@
 # GPT-Irony-detection
-This project focuses on developing an irony detection system using GPT-3.5 Turbo, GPT-3.5 embeddings, and machine learning techniques. The objective is to identify instances of irony in text using state-of-the-art language models and enhance the system's performance with machine learning on the 2016 SemEval dataset.
+This project focuses on developing an irony detection system using GPT-3.5 Turbo, GPT-3.5 embeddings, and machine learning techniques. The objective is to identify instances of irony in text using state-of-the-art language models and enhance the system's performance with machine learning on the 2019 SemEval dataset.
 # Project Overview
 Irony detection in text is a crucial natural language processing (NLP) task with numerous applications, including sentiment analysis, social media monitoring, and customer feedback analysis. This project employs advanced language models, GPT-3.5 Turbo and GPT-3.5 embeddings, to understand and recognize irony within textual data.
 # Data
